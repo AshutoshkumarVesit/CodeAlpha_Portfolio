@@ -1,6 +1,7 @@
 # CodeAlpha_Portfolio
 
 # ✨ Ashutosh Tripathi - CodeAlpha Portfolio 🌟
+🌐 Demo[https://ashutoshkumarvesit.github.io/CodeAlpha_Portfolio/]
 
 Welcome to the digital hub of **Ashutosh Tripathi**, a passionate frontend developer driven by curiosity and creativity. This portfolio is a culmination of my skills in **web development**, **design**, and **problem-solving**, brought to life with **HTML**, **CSS**, and **JavaScript**. The site embodies a responsive and user-centered design, providing a sleek, intuitive experience across devices.
 
